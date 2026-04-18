@@ -37,4 +37,4 @@
 </div>
 
 ###
-![Satoru Gojo GIF](https://c.tenor.com/3542481902885275990/tenor.gif)
+<img src="https://c.tenor.com/3542481902885275990/tenor.gif" width="300"/>
